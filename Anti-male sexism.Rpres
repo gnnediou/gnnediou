@@ -1,10 +1,6 @@
 Anti-male sexism
 ========================================================
-
-![Stop crying!](https://malemattersusa.files.wordpress.com/2012/01/stop-crying.jpg?w=640)
-
-
-author: Georgia Nediou
+author: Georgia Nediou 
 
 date: 18/03/2019
 
@@ -12,6 +8,7 @@ Introduction
 ========================================================
 Anti-male sexism, also known as "The second sexism" according to David Benatar, refers to "the wrongful discrimination against men and boys on the basis of sex".
 
+========================================================
 Some examples:
 
 -Men are 97% of combat fatalities
@@ -49,3 +46,4 @@ References
 Thank you for your attention!
 ========================================================
 
+![Stop crying!](https://malemattersusa.files.wordpress.com/2012/01/stop-crying.jpg?w=640)
