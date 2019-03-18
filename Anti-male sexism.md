@@ -11,7 +11,7 @@ Male sexism, also known as "The second sexism" according to David Benatar, refer
 ========================================================
 Some examples:
 
--Men are 97% of combat fatalities
+-Boys face vastly more corporal punishment than girls
 
 -Men pay 97% of Alimony
 
