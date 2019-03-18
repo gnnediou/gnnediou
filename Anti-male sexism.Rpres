@@ -1,12 +1,12 @@
-Anti-male sexism
+Male sexism
 ========================================================
 author: Georgia Nediou 
 
 date: 18/03/2019
 
 Introduction
-========================================================
-Anti-male sexism, also known as "The second sexism" according to David Benatar, refers to "the wrongful discrimination against men and boys on the basis of sex".
+=====================================================
+Male sexism, also known as "The second sexism" according to David Benatar, refers to "the wrongful discrimination against men and boys on the basis of sex".
 
 ========================================================
 Some examples:
@@ -21,13 +21,11 @@ Some examples:
 
 -77% of homicide victims are men.
 
--Men are 165% more likely to be convicted than women
-
 -Men get 63% longer sentences than women for the same crime
 
 Hypothesis
 ========================================================
-Men conceive in a different way anti-male sexism in comparison to women.
+Men conceive in a different way male sexism in comparison to women.
 
 Methods
 ========================================================
